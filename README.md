@@ -4,7 +4,7 @@
 
 ---
 
-# Hi there, I'm Bheesham Kumar Sajnani
+# Hi there, I'm Bheesham
 
 **Tech Enthusiast | Lifelong Learner | Problem Solver**
 
