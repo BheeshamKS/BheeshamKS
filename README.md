@@ -43,13 +43,15 @@ Always curious, always building, always learning.
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bheesham-Kumar-Sajnani&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bheesham-Kumar-Sajnani&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BheeshamKS&theme=tokyonight" height="120" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
 </p>
 
 ---
