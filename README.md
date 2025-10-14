@@ -13,6 +13,13 @@ Always curious, always building, always learning.
 
 ---
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheesham-kumar-sajnani-89791b2a4/)  
+[![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
+
+---
+
 ## Interests & Focus  
 
 - Data Science & Intelligent Systems  
@@ -43,8 +50,6 @@ Always curious, always building, always learning.
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
@@ -53,20 +58,5 @@ Always curious, always building, always learning.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
 </p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bheeshamks&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheesham-kumar-sajnani-89791b2a4/)  
-[![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
 
 ---
