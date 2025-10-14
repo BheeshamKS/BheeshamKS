@@ -49,7 +49,7 @@ Always curious, always building, always learning.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bheesham-Kumar-Sajnani&theme=tokyonight" height="120" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=BheeshamKS&theme=tokyonight" height="120" alt="Streak Stats"/>
 </p>
 
 ---
