@@ -58,8 +58,9 @@ Always curious, always building, always learning.
 
 ## Contribution Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/output/github-contribution-grid-snake.svg
-)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bheeshamks&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
