@@ -13,6 +13,13 @@ Always curious, always building, always learning.
 
 ---
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheesham-kumar-sajnani-89791b2a4/)  
+[![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
+
+---
+
 ## Interests & Focus  
 
 - Data Science & Intelligent Systems  
@@ -44,26 +51,12 @@ Always curious, always building, always learning.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bheesham-Kumar-Sajnani&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bheesham-Kumar-Sajnani&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bheesham-Kumar-Sajnani&theme=tokyonight" height="120" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
 </p>
-
----
-
-## Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/output/github-contribution-grid-snake.svg
-)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheesham-kumar-sajnani-89791b2a4/)  
-[![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
 
 ---
