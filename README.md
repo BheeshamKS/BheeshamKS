@@ -15,7 +15,7 @@ Always curious, always building, always learning.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheesham-kumar-sajnani-89791b2a4/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheeshamks/)  
 [![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
 
 ---
