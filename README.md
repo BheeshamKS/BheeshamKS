@@ -33,13 +33,12 @@ Always curious, always building, always learning.
 ## 🧠 Learning & Skills  
 
 ### Current Focus & Tech Stack  
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
+<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,sqlite,html,css,js,flask,git,github" /> </p>
 
 ### Creative Tools (My Artistic Side)  
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/> <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="Affinity Photo"/> <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/>  
-
+<p align='left'> <img src="https://skillicons.dev/icons?i=blender,ps,pr" /> </p>
 ### Future Learning Goals  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<p align='left'> <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,threejs,nodejs" /> </p>
 
 ---
 
