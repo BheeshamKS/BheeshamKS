@@ -33,10 +33,11 @@ Always curious, always building, always learning.
 ## 🧠 Learning & Skills  
 
 ### Current Focus & Tech Stack  
-<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,sqlite,html,css,js,flask,git,github" /> </p>
+<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,sqlite,html,css,js,flask,git,github" /> </p>
 
 ### Creative Tools (My Artistic Side)  
 <p align='left'> <img src="https://skillicons.dev/icons?i=blender,ps,pr" /> </p>
+
 ### Future Learning Goals  
 <p align='left'> <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,threejs,nodejs" /> </p>
 
@@ -51,6 +52,9 @@ Always curious, always building, always learning.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+</p>
+
+<p aling="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
