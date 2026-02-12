@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Tech+Enthusiast+%7C+Lifelong+Learner;Data+Science+%7C+AI+%7C+Programming;Creative+Mind+%7C+Design+%7C+3D+Art)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moiz-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-xyz" />
+  <img src="https://komarev.com/ghpvc/?username=bheeshamks&label=Profile%20views&color=0e75b6&style=flat" alt="bheeshamks" />
 </p>
 
 ---
