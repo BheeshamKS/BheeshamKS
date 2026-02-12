@@ -15,8 +15,7 @@ Always curious, always building, always learning.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham%20Kumar%20Sajnani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheeshamks/)  
-[![Email](https://img.shields.io/badge/Email-bheesham5564%40gmail.com-red?logo=gmail&logoColor=white)](mailto:bheesham5564@gmail.com)
+<p align='left'> <a href="https://www.linkedin.com/in/bheeshamks/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/polyblend_3d/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:bheesham5564@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 ---
 
@@ -54,12 +53,13 @@ Always curious, always building, always learning.
   <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
+</p>
+
 <p aling="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
-</p>
 
 ---
