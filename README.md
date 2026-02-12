@@ -48,18 +48,16 @@ Always curious, always building, always learning.
 ---
 
 ## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bheeshamks&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight" height="120" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
-
-<p aling="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamks&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
-</p>
-
 
 ---
