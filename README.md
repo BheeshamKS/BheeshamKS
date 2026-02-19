@@ -57,7 +57,7 @@ Always curious, always building, always learning.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
 </p>
 
 <p align="center">
