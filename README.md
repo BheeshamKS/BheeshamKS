@@ -36,13 +36,13 @@ Always curious, always building, always learning.
 ## 🧠 Learning & Skills  
 
 ### Current Focus & Tech Stack  
-<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,sqlite,html,css,js,react,flask,git,github" /> </p>
+<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,sqlite,html,css,js,react,tailwind,flask,git,github" /> </p>
 
 ### Creative Tools (My Artistic Side)  
 <p align='left'> <img src="https://skillicons.dev/icons?i=blender,ps,pr" /> </p>
 
 ### Future Learning Goals  
-<p align='left'> <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,threejs,nodejs" /> </p>
+<p align='left'> <img src="https://skillicons.dev/icons?i=typescript,nextjs,threejs,nodejs" /> </p>
 
 ---
 
