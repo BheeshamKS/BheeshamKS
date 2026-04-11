@@ -1,7 +1,5 @@
 #  Welcome to My Space!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Tech+Enthusiast+%7C+Lifelong+Learner;Data+Science+%7C+AI+%7C+Programming;Creative+Mind+%7C+Design+%7C+3D+Art)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI+Integrations;Data+Science+%7C+LLMs+%7C+Automation;Creative+Mind+%7C+Design+%7C+3D+Art)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bheeshamks&label=Profile%20views&color=0e75b6&style=flat" alt="bheeshamks" />
 </p>
@@ -9,11 +7,10 @@
 ---
 
 # Hi there, I'm Bheesham
+**Full-Stack Developer · AI Integrations · Where Code Meets Creativity**
 
-**Tech Enthusiast | Lifelong Learner | Problem Solver**
-
-I’m passionate about exploring the world of **programming, data science, and artificial intelligence**.  
-Always curious, always building, always learning.
+I build products at the intersection of **web development, AI, and design** —  
+from full-stack apps and LLM-powered tools to data-driven systems and 3D art.
 
 ---
 
@@ -24,25 +21,33 @@ Always curious, always building, always learning.
 ---
 
 ## Interests & Focus  
-
+- Full-Stack Product Development & MVP Building  
+- AI Integrations & Multi-Provider LLM Systems  
+- Workflow Automation & Agentic Tools  
 - Data Science & Intelligent Systems  
-- Artificial Intelligence & Machine Learning  
-- Software Development & Automation  
-- Web Technologies & Modern Frameworks  
 - Creative Design & Prototyping (Figma, UI/UX)
 
 ---
 
 ## 🧠 Learning & Skills  
 
-### Current Focus & Tech Stack  
-<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,sqlite,mongodb,supabase,html,css,js,react,tailwind,flask,git,github" /> </p>
+### Tech Stack  
+<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,typescript,react,tailwind,vite,nodejs,flask,sqlite,postgresql,mongodb,supabase,git,github" /> </p>
+
+### AI & Automation Tools  
+![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2E86AB?style=for-the-badge&logoColor=white)
 
 ### Creative Tools (My Artistic Side)  
 <p align='left'> <img src="https://skillicons.dev/icons?i=blender,ps,pr" /> </p>
 
 ### Future Learning Goals  
-<p align='left'> <img src="https://skillicons.dev/icons?i=typescript,nextjs,threejs,nodejs" /> </p>
+<p align='left'> <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs,php" /> </p>
 
 ---
 
