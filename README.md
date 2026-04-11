@@ -4,6 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=bheeshamks&label=Profile%20views&color=0e75b6&style=flat" alt="bheeshamks" />
 </p>
 
+<p align="center">
+  <a href="https://bheeshamks.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-bheeshamks.github.io-38C2FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 # Hi there, I'm Bheesham
