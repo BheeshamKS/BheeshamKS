@@ -38,7 +38,7 @@ from full-stack apps and LLM-powered tools to data-driven systems and 3D art.
 ## 🧠 Learning & Skills  
 
 ### Tech Stack  
-<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,typescript,react,tailwind,vite,nodejs,flask,sqlite,postgresql,mongodb,supabase,git,github" /> </p>
+<p align='left'> <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,typescript,react,tailwind,vite,npm,nodejs,flask,sqlite,postgresql,mongodb,supabase,git,github" /> </p>
 
 ### AI & Automation Tools  
 ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -51,9 +51,6 @@ from full-stack apps and LLM-powered tools to data-driven systems and 3D art.
 
 ### Creative Tools (My Artistic Side)  
 <p align='left'> <img src="https://skillicons.dev/icons?i=blender,ps,pr" /> </p>
-
-### Future Learning Goals  
-<p align='left'> <img src="https://skillicons.dev/icons?i=nextjs,threejs,nodejs,php" /> </p>
 
 ---
 
