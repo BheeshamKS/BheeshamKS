@@ -65,7 +65,7 @@ from full-stack apps and LLM-powered tools to data-driven systems and 3D art.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/streak-stats/?username=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
+  <img src="./profile/streak.svg" alt="Streak Stats" height="120" />
 </p>
 
 <p align="center">
