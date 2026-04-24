@@ -12,17 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Use the PAT for the initial checkout so the local repo is authed
+          # Use the PAT for the initial checkout
           token: ${{ secrets.PAT_TOKEN }}
           persist-credentials: true
 
-      - name: Generate streak card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+      - name: Generate Streak Stats
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
         with:
-          card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight'
-          path: profile/streak.svg
-          token: ${{ secrets.PAT_TOKEN }}
+          # Automatically uses your username
+          USERNAME: ${{ github.repository_owner }}
+          # Uses your high-permission token to see the private "Experiments" repo
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          THEME: tokyonight
+          HIDE_BORDER: true
+          OUTPUT_PATH: profile/streak.svg
 
       - name: Commit and Push
         env:
