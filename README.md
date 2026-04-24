@@ -65,7 +65,7 @@ from full-stack apps and LLM-powered tools to data-driven systems and 3D art.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=bheeshamks&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats"/>
 </p>
 
 <p align="center">
