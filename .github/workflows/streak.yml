@@ -1,18 +1,19 @@
 name: Update Streak Stats
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Explicitly grant write access
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }} # Use your PAT for checkout
+          persist-credentials: true # Keeps the PAT for the push step
 
       - name: Generate streak card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -20,12 +21,12 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight'
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }} # Use PAT for private repo access
 
-      - name: Commit changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
-          git push
+          git push origin main
