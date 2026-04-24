@@ -8,12 +8,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Explicitly grant write access
+      contents: write 
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }} # Use your PAT for checkout
-          persist-credentials: true # Keeps the PAT for the push step
+          # Use the PAT for the initial checkout so the local repo is authed
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
 
       - name: Generate streak card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -21,18 +22,21 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight'
           path: profile/streak.svg
-          token: ${{ secrets.PAT_TOKEN }} # Use PAT for private repo access
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and Push
+        env:
+          MY_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/streak.svg
-          # Avoid error if nothing changed
+          
+          # Check if there's actually a change to avoid "nothing to commit" errors
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update streak stats"
-            # Force authentication by embedding the PAT in the remote URL
-            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git main
+            # FORCE PUSH using the token in the URL to bypass 403
+            git push https://x-access-token:${MY_TOKEN}@github.com/${{ github.repository }}.git main
           fi
