@@ -28,5 +28,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push origin main
+          # Only commit if there are changes to avoid errors
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update streak stats"
+          
+          # Force the push using your PAT_TOKEN in the URL
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git main
